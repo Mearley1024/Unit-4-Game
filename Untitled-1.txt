@@ -1,0 +1,6 @@
+
+wordsList = ["ross", "rachel", "joey", "phoebe", "chandler", "monica",
+  "jennifer", "courtney", "matthew", "matt", "lisa", "david"];
+
+chosenWord = wordsList[Math.floor(Math.random() * wordsList.length)];
+
